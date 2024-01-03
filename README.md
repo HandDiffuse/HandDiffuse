@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+This repo is the official implementation of "HandDiffuse:  xxx ”
 <!--
 **HandDiffuse/HandDIffuse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
