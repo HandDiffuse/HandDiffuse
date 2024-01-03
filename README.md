@@ -1,5 +1,5 @@
 ### Hi there 👋
-This repo is the official implementation of "HandDiffuse:  xxx ”
+This repo is the official implementation of "HandDiffuse: A Large Hands Interaction Dataset for Hands Motion Generation”
 <!--
 **HandDiffuse/HandDIffuse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
